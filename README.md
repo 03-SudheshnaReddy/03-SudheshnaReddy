@@ -1,4 +1,9 @@
-<h1 align="center">Hi 👋, I'm Sudheshna Reddy</h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+</p>
+
+<h1 align="center">Hi, I'm Sudheshna Reddy! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 <h3 align="center">A passionate developer who loves exploring new technologies, building projects, and solving problems. Always learning and improving, one line of code at a time.</h3>
 
 
@@ -8,6 +13,20 @@
 [![LeetCode](https://img.shields.io/badge/Leetcode-%230077B5.svg?logo=Leetcode&logoColor=white)](https://leetcode.com/u/CodeCrest39/) 
 [![CodeForces](https://img.shields.io/badge/CodeForces-%230077B5.svg?logo=CodeForces&logoColor=white)](https://codeforces.com/profile/QuantumCodex39) 
 [![PortFolio](https://img.shields.io/badge/PortFolio-%230077B5.svg?logo=PortFolio&logoColor=white)](https://sudheshnareddy.netlify.app/) 
+
+
+ ## 🙋‍♂️ About Me
+
+
+- 🎓 I’m a student at **IIITM Gwalior'27**, pursuing Information Technology.
+
+- 🌱 I’m currently learning **Data Structures and Algorithms.**
+ 
+- 🔥 I'm also intrested in exploring in the field of **AI/ML** recently.
+
+- 👯 I’m looking to collaborate on **Open Source Projects**
+
+- 📫 How to reach me **sudheshnareddy.tr@gmail.com**
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=sql&logoColor=white)
@@ -36,4 +55,5 @@
   </a>
 </div>
 >
+
 

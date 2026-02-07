@@ -19,7 +19,7 @@
 
 
 - 🎓 I’m a student at **IIITM Gwalior'27**, pursuing Information Technology.
-
+  
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
  
 - 🔥 I'm also intrested in exploring in the field of **AI/ML** recently.
@@ -36,7 +36,7 @@
 ![AWS](https://img.shields.io/badge/Amazon_Web_Services-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-FF6C00?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
+<!--
 ## 📊 My Github Stats
 
 <p align="center">
@@ -55,5 +55,21 @@
   </a>
 </div>
 >
+-->
+## 🏆 Achievements
+
+- Meta Hacker Cup 2025 (Round 2): Global Rank **1358** (20,000+ participants)
+  
+- GHCI 2025 Hackathon: **Semi-Finalist**, Top **20%** (5,975 teams)
+  
+- Google Student Ambassador: Organized tech initiatives at **IIITM**
+  
+- Competitive Programming: **800+** problems solved (LeetCode/Codeforces/CodeChef)
+  
+- LeetCode Contest 474: Global Rank **786** | Codeforces Global Round 30 (Div. 2): Rank **2078**
+  
+- GATE 2025 (CS/IT): Qualified (200,000+ candidates)
+  
+- JEE Main 2022: **98th percentile** (Top 2%) among 1.2M+ candidates
 
 

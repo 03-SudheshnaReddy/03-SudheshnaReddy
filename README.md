@@ -13,7 +13,9 @@
 [![LeetCode](https://img.shields.io/badge/Leetcode-%230077B5.svg?logo=Leetcode&logoColor=white)](https://leetcode.com/u/CodeCrest39/) 
 [![CodeForces](https://img.shields.io/badge/CodeForces-%230077B5.svg?logo=CodeForces&logoColor=white)](https://codeforces.com/profile/QuantumCodex39) 
 [![PortFolio](https://img.shields.io/badge/PortFolio-%230077B5.svg?logo=PortFolio&logoColor=white)](https://sudheshnareddy.netlify.app/) 
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=03-SudheshnaReddy&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+</p>
 
  ## 🙋‍♂️ About Me
 
@@ -55,9 +57,7 @@
   </a>
 </div>
 >
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=03-SudheshnaReddy&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-</p>
+
 -->
 ## 🏆 Achievements
 
